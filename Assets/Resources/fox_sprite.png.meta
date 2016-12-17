@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 70f067eb0b12424469d70ab47663aafd
+timeCreated: 1481770631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fox_sprite_0
+    21300002: fox_sprite_1
+    21300004: fox_sprite_2
+    21300006: fox_sprite_3
+    21300008: fox_sprite_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fox_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 600
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 247, y: -160}
+        - {x: 266, y: -146}
+        - {x: 295, y: -75}
+        - {x: 296, y: -65}
+        - {x: 296, y: 14}
+        - {x: 276, y: 54}
+        - {x: 255, y: 105}
+        - {x: 235, y: 123}
+        - {x: 214, y: 123}
+        - {x: 179, y: 93}
+        - {x: 160, y: 121}
+        - {x: 152, y: 123}
+        - {x: 138, y: 123}
+        - {x: 125, y: 94}
+        - {x: 105, y: 58}
+        - {x: 53, y: 11}
+        - {x: 0, y: -2}
+        - {x: -37, y: -24}
+        - {x: -64, y: -14}
+        - {x: -125, y: 14}
+        - {x: -185, y: 23}
+        - {x: -198, y: 19}
+        - {x: -232, y: 4}
+        - {x: -262, y: -3}
+        - {x: -262, y: -21}
+        - {x: -249, y: -45}
+        - {x: -212, y: -63}
+        - {x: -211, y: -84}
+        - {x: -179, y: -102}
+        - {x: -128, y: -118}
+        - {x: -78, y: -124}
+        - {x: -36, y: -110}
+        - {x: -18, y: -156}
+        - {x: 4, y: -169}
+        - {x: 33, y: -177}
+        - {x: 70, y: -177}
+        - {x: 105, y: -160}
+        - {x: 162, y: -173}
+        - {x: 189, y: -177}
+    - name: fox_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 600
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 252, y: -169}
+        - {x: 266, y: -146}
+        - {x: 295, y: -75}
+        - {x: 296, y: -65}
+        - {x: 296, y: 14}
+        - {x: 276, y: 54}
+        - {x: 255, y: 105}
+        - {x: 235, y: 123}
+        - {x: 214, y: 123}
+        - {x: 179, y: 93}
+        - {x: 160, y: 121}
+        - {x: 155, y: 123}
+        - {x: 132, y: 123}
+        - {x: 100, y: 62}
+        - {x: 53, y: 11}
+        - {x: -52, y: 8}
+        - {x: -89, y: 37}
+        - {x: -115, y: 53}
+        - {x: -117, y: 43}
+        - {x: -117, y: 40}
+        - {x: -117, y: 42}
+        - {x: -120, y: 46}
+        - {x: -142, y: 67}
+        - {x: -166, y: 77}
+        - {x: -177, y: 58}
+        - {x: -240, y: 76}
+        - {x: -240, y: 25}
+        - {x: -203, y: -10}
+        - {x: -210, y: -19}
+        - {x: -191, y: -45}
+        - {x: -119, y: -90}
+        - {x: -69, y: -95}
+        - {x: -28, y: -120}
+        - {x: -24, y: -161}
+        - {x: 15, y: -177}
+        - {x: 70, y: -177}
+        - {x: 105, y: -160}
+        - {x: 147, y: -177}
+        - {x: 196, y: -177}
+    - name: fox_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 380
+        width: 600
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 247, y: -160}
+        - {x: 266, y: -146}
+        - {x: 295, y: -75}
+        - {x: 296, y: -65}
+        - {x: 296, y: 14}
+        - {x: 276, y: 54}
+        - {x: 255, y: 105}
+        - {x: 235, y: 123}
+        - {x: 214, y: 123}
+        - {x: 179, y: 93}
+        - {x: 160, y: 121}
+        - {x: 146, y: 123}
+        - {x: 140, y: 123}
+        - {x: 131, y: 110}
+        - {x: 104, y: 58}
+        - {x: 72, y: 23}
+        - {x: 9, y: 1}
+        - {x: -6, y: -6}
+        - {x: -59, y: 26}
+        - {x: -89, y: 68}
+        - {x: -122, y: 91}
+        - {x: -146, y: 100}
+        - {x: -151, y: 90}
+        - {x: -188, y: 105}
+        - {x: -219, y: 103}
+        - {x: -219, y: 61}
+        - {x: -205, y: 5}
+        - {x: -153, y: -37}
+        - {x: -136, y: -62}
+        - {x: -101, y: -76}
+        - {x: -71, y: -81}
+        - {x: -42, y: -92}
+        - {x: -18, y: -156}
+        - {x: 4, y: -169}
+        - {x: 33, y: -177}
+        - {x: 70, y: -177}
+        - {x: 105, y: -160}
+        - {x: 162, y: -173}
+        - {x: 189, y: -177}
+    - name: fox_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 600
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 177, y: -181}
+        - {x: 202, y: -175}
+        - {x: 248, y: -166}
+        - {x: 264, y: -149}
+        - {x: 295, y: -79}
+        - {x: 296, y: -69}
+        - {x: 296, y: 10}
+        - {x: 276, y: 50}
+        - {x: 255, y: 101}
+        - {x: 235, y: 119}
+        - {x: 217, y: 119}
+        - {x: 197, y: 94}
+        - {x: 179, y: 89}
+        - {x: 160, y: 117}
+        - {x: 152, y: 119}
+        - {x: 138, y: 119}
+        - {x: 125, y: 90}
+        - {x: 105, y: 54}
+        - {x: 52, y: 9}
+        - {x: -7, y: -8}
+        - {x: -38, y: 13}
+        - {x: -75, y: 57}
+        - {x: -124, y: 95}
+        - {x: -143, y: 104}
+        - {x: -199, y: 105}
+        - {x: -215, y: 101}
+        - {x: -215, y: 67}
+        - {x: -211, y: 58}
+        - {x: -195, y: -1}
+        - {x: -136, y: -60}
+        - {x: -96, y: -79}
+        - {x: -30, y: -125}
+        - {x: -18, y: -160}
+        - {x: 4, y: -173}
+        - {x: 33, y: -181}
+        - {x: 70, y: -181}
+        - {x: 105, y: -164}
+        - {x: 151, y: -165}
+        - {x: 169, y: -181}
+    - name: fox_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 228, y: -176}
+        - {x: 240, y: -153}
+        - {x: 282, y: -102}
+        - {x: 294, y: -81}
+        - {x: 296, y: -62}
+        - {x: 296, y: 13}
+        - {x: 284, y: 41}
+        - {x: 251, y: 102}
+        - {x: 234, y: 124}
+        - {x: 224, y: 133}
+        - {x: 181, y: 98}
+        - {x: 160, y: 121}
+        - {x: 140, y: 126}
+        - {x: 125, y: 94}
+        - {x: 105, y: 58}
+        - {x: 53, y: 11}
+        - {x: -6, y: 1}
+        - {x: 4, y: 69}
+        - {x: -5, y: 124}
+        - {x: -25, y: 135}
+        - {x: -45, y: 183}
+        - {x: -59, y: 183}
+        - {x: -78, y: 168}
+        - {x: -93, y: 118}
+        - {x: -102, y: 111}
+        - {x: -102, y: 6}
+        - {x: -97, y: -21}
+        - {x: -77, y: -46}
+        - {x: -37, y: -109}
+        - {x: -24, y: -158}
+        - {x: 19, y: -176}
+        - {x: 70, y: -176}
+        - {x: 130, y: -160}
+        - {x: 140, y: -172}
+        - {x: 153, y: -176}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

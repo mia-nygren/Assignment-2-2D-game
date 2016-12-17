@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: ec8562c1c69d6674699df2f8564118f4
+timeCreated: 1481771104
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bat_0
+    21300002: bat_1
+    21300004: bat_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150, y: -186.5}
+        - {x: -139, y: -200.5}
+        - {x: -118, y: -200.5}
+        - {x: -114, y: -197.5}
+        - {x: -113, y: -194.5}
+        - {x: -113, y: -188.5}
+        - {x: -116, y: -184.5}
+        - {x: -114, y: -183.5}
+        - {x: -113, y: -191.5}
+        - {x: -104, y: -200.5}
+        - {x: -81, y: -167.5}
+        - {x: -95, y: -136.5}
+        - {x: -70, y: -96.5}
+        - {x: -67, y: -70.5}
+        - {x: -12, y: -60.5}
+        - {x: 22, y: -95.5}
+        - {x: 35, y: -119.5}
+        - {x: 43, y: -116.5}
+        - {x: 93, y: -32.5}
+        - {x: 121, y: -14.5}
+        - {x: 203, y: -39.5}
+        - {x: 213, y: -35.5}
+        - {x: 210, y: 8.5}
+        - {x: 231, y: 48.5}
+        - {x: 296, y: 53.5}
+        - {x: 299, y: 59.5}
+        - {x: 299, y: 93.5}
+        - {x: 281, y: 127.5}
+        - {x: 267, y: 144.5}
+        - {x: 216, y: 168.5}
+        - {x: 183, y: 172.5}
+        - {x: -11, y: 172.5}
+        - {x: -32, y: 160.5}
+        - {x: -89, y: 163.5}
+        - {x: -193, y: 154.5}
+        - {x: -265, y: 147.5}
+        - {x: -259, y: 135.5}
+        - {x: -248, y: 115.5}
+        - {x: -236, y: 70.5}
+        - {x: -258, y: 88.5}
+        - {x: -286, y: 81.5}
+        - {x: -286, y: -60.5}
+        - {x: -281, y: -95.5}
+        - {x: -260, y: -123.5}
+        - {x: -229, y: -184.5}
+        - {x: -222, y: -211.5}
+        - {x: -183, y: -211.5}
+        - {x: -158, y: -185.5}
+        - {x: -170, y: -165.5}
+        - {x: -155, y: -159.5}
+    - name: bat_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: -200.5}
+        - {x: -114, y: -197.5}
+        - {x: -113, y: -194.5}
+        - {x: -113, y: -188.5}
+        - {x: -116, y: -184.5}
+        - {x: -114, y: -183.5}
+        - {x: -113, y: -191.5}
+        - {x: -104, y: -200.5}
+        - {x: -81, y: -167.5}
+        - {x: -95, y: -136.5}
+        - {x: -70, y: -96.5}
+        - {x: -12, y: -60.5}
+        - {x: 35, y: -119.5}
+        - {x: 43, y: -116.5}
+        - {x: 93, y: -32.5}
+        - {x: 121, y: -14.5}
+        - {x: 203, y: -39.5}
+        - {x: 213, y: -35.5}
+        - {x: 211, y: -27.5}
+        - {x: 247, y: -9.5}
+        - {x: 247, y: 35.5}
+        - {x: 236, y: 70.5}
+        - {x: 221, y: 94.5}
+        - {x: 193, y: 117.5}
+        - {x: 129, y: 146.5}
+        - {x: 26, y: 171.5}
+        - {x: -3, y: 171.5}
+        - {x: -22, y: 119.5}
+        - {x: -81, y: 144.5}
+        - {x: -110, y: 150.5}
+        - {x: -266, y: 148.5}
+        - {x: -236, y: 70.5}
+        - {x: -259, y: 83.5}
+        - {x: -277, y: 86.5}
+        - {x: -286, y: 77.5}
+        - {x: -286, y: -20.5}
+        - {x: -285, y: -37.5}
+        - {x: -284, y: -79.5}
+        - {x: -262, y: -125.5}
+        - {x: -221, y: -155.5}
+        - {x: -229, y: -184.5}
+        - {x: -222, y: -211.5}
+        - {x: -183, y: -211.5}
+        - {x: -158, y: -185.5}
+        - {x: -170, y: -165.5}
+        - {x: -139, y: -200.5}
+    - name: bat_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: -200.5}
+        - {x: -114, y: -197.5}
+        - {x: -113, y: -194.5}
+        - {x: -113, y: -188.5}
+        - {x: -116, y: -184.5}
+        - {x: -114, y: -183.5}
+        - {x: -113, y: -191.5}
+        - {x: -104, y: -200.5}
+        - {x: -81, y: -167.5}
+        - {x: -95, y: -136.5}
+        - {x: -70, y: -96.5}
+        - {x: -12, y: -60.5}
+        - {x: 34, y: -125.5}
+        - {x: 83, y: -72.5}
+        - {x: 116, y: -17.5}
+        - {x: 127, y: 4.5}
+        - {x: 182, y: -51.5}
+        - {x: 190, y: -46.5}
+        - {x: 190, y: 7.5}
+        - {x: 179, y: 91.5}
+        - {x: 146, y: 141.5}
+        - {x: 20, y: 171.5}
+        - {x: -3, y: 171.5}
+        - {x: -5, y: 170.5}
+        - {x: -23, y: 109.5}
+        - {x: -47, y: 123.5}
+        - {x: -82, y: 141.5}
+        - {x: -113, y: 148.5}
+        - {x: -221, y: 152.5}
+        - {x: -265, y: 148.5}
+        - {x: -236, y: 70.5}
+        - {x: -259, y: 83.5}
+        - {x: -277, y: 86.5}
+        - {x: -286, y: 77.5}
+        - {x: -286, y: -20.5}
+        - {x: -285, y: -37.5}
+        - {x: -284, y: -79.5}
+        - {x: -262, y: -125.5}
+        - {x: -221, y: -155.5}
+        - {x: -229, y: -184.5}
+        - {x: -222, y: -211.5}
+        - {x: -183, y: -211.5}
+        - {x: -158, y: -185.5}
+        - {x: -170, y: -165.5}
+        - {x: -139, y: -200.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

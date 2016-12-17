@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "name": "moonlight-fox",
+  "main": "n/a",
+  "scripts": {
+    "deploy": "gh-pages -d Game"
+  },
+  "keywords": [
+  ],
+  "author": "Mia",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
